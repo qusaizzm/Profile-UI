@@ -3,7 +3,7 @@
 A new Flutter project.
 
 # ScreenShot Images
-![](Screenshot_20201030_095528_com.example.profile_ui%5B1%5D.jpg)
+<img src="Screenshot_2020.jpg" width="200" height="500" >
 
 ## Getting Started
 
