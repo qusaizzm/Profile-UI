@@ -3,7 +3,7 @@
 A new Flutter project.
 
 # ScreenShot Images
-<img src="Screenshot_2020.jpg" width="200" height="500" >
+<img src="Screenshot_2020.jpg" width="200" height="400" >
 
 ## Getting Started
 
